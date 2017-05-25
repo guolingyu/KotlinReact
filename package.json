@@ -1,0 +1,16 @@
+{
+  "name": "KotlinReact",
+  "version": "1.0.0",
+  "description": "Kotlin And React Demo",
+  "main": "index.android.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "author": "GuoLingyu",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.0.0-alpha.6",
+    "react-native": "^0.44.0"
+  }
+}
